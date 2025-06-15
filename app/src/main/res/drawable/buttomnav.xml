@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Qirralarni yumaloqlash -->
+    <corners android:radius="30dp" />
+
+    <!-- Gradient fon -->
+    <gradient
+        android:startColor="@color/white"
+        android:endColor="@color/white"
+        android:angle="45" />
+
+    <!-- Chegara (stroke) -->
+    <stroke
+        android:width="2dp"
+        android:color="#EBE9E9" />
+
+    <!-- Soyeffekt -->
+    <padding
+        android:left="5dp"
+        android:top="5dp"
+        android:right="5dp"
+        android:bottom="5dp" />
+</shape>

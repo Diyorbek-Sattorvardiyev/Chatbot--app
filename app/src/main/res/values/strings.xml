@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chatbot app</string>
+    <string name="openai_api_key">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</string>
+    <string name="gemini_api_key">AIzaSyAwdt203Wr8LPdI-h7wmLxLRRR2JfwcTpE</string>
+</resources>

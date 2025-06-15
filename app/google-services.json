@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331543150874",
+    "project_id": "foodapp-a2872",
+    "storage_bucket": "foodapp-a2872.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331543150874:android:a594d9a209450a50046ca3",
+        "android_client_info": {
+          "package_name": "com.example.chatbotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaXPSWv61afo9QG_1pThkmDoVEZm04PQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
