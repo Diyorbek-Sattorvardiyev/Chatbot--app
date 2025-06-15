@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3a68db62-58eb-4232-86d1-010607dfafee)  ![image](https://github.com/user-attachments/assets/f68b7143-db63-4de7-a998-7b7024021eb9)
+![image](https://github.com/user-attachments/assets/e8ed28c6-d68f-4a66-bd3b-e13eb33b7645) ![image](https://github.com/user-attachments/assets/f68b7143-db63-4de7-a998-7b7024021eb9)
 
 # Android Chatbot App (Gemini API asosida)
 
