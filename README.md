@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/3a68db62-58eb-4232-86d1-010607dfafee)
+![image](https://github.com/user-attachments/assets/3a68db62-58eb-4232-86d1-010607dfafee)  ![image](https://github.com/user-attachments/assets/f68b7143-db63-4de7-a998-7b7024021eb9)
+
 # Android Chatbot App (Gemini API asosida)
 
 Ushbu Android ilova foydalanuvchidan matn yoki ovozli xabar qabul qiladi va Google Gemini API orqali chatbot javoblarini qaytaradi. Ilova o‘zbek tilida matnni ovoz chiqarib o‘qib berish va ovozdan matn kiritish funksiyalariga ega.
